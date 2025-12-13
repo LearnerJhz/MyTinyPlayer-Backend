@@ -1,0 +1,4 @@
+# 忽略文件夹及其内部所有内容
+build/
+.vscode/
+.cache/
